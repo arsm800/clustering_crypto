@@ -1,4 +1,4 @@
-# Clustering Crypto (Submitted 10/7/20)
+# Clustering Crypto
 
 ## Elbow Curve
 
