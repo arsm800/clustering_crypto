@@ -1,5 +1,9 @@
 # Clustering Crypto
 
+Utilized unsuperivsed learning techniques to better understand the many attributes of various cryptocurrencies.  Data dimension reduction via principal 
+component analysis (PCA).  Predicted clusters from cryptocurrency data using K-Means algorithm from sklearn and visualized results via matplotlib, plotly,
+and a Hvplot table.
+
 ## Technologies Used
 
 * [Python](https://www.python.org)
